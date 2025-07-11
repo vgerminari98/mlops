@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/vgerm/Documents/www/puc/modelos_ml/fetal_health/mlruns/0/a47a3077c8ca407fb2c0e3d2727e4dd4/artifacts
+end_time: 1749314597409
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a47a3077c8ca407fb2c0e3d2727e4dd4
+run_name: experiment_mlops_ead
+run_uuid: a47a3077c8ca407fb2c0e3d2727e4dd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749314595948
+status: 3
+tags: []
+user_id: vgerm
